@@ -75,7 +75,5 @@ app.listen(3000) // Inicia o servidor na porta 3000
 // - Criar um usuário
 // - Listar todos os usuários
 // - Editar um usuários
-// pcoutinho806
-// By3LJQhsDG8tESjo
 // - Deletar um usuários
 
